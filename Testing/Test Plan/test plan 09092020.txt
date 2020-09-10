@@ -1,0 +1,54 @@
+Test  plan  09/09/2020
+
+ PART-NUMBER       PIC X(23) VALUE SPACES.      not empty , unique ? 
+ PART-NAME         PIC X(14) VALUE SPACES.	not  empty 
+ SPEC-NUMBER       PIC X(07) VALUE SPACES.	not  empty
+ GOVT-COMML-CODE   PIC X(01) VALUE SPACES.	not  empty
+ BLUEPRINT-NUMBER  PIC X(10) VALUE SPACES.	not  empty
+ UNIT-OF-MEASURE   PIC X(03) VALUE SPACES.	not  empty ? 
+ WEEKS-LEAD-TIME   PIC 9(03) VALUE ZERO.	is number  and not  empty 
+ VEHICLE-MAKE      PIC X(03) VALUE SPACES.	is in (CHR, FOR, GM,VW,TOY,JAG, PEU, BMW) and not  empty
+ VEHICLE-MODEL     PIC X(10) VALUE SPACES.	not  empty
+ VEHICLE-YEAR      PIC X(04) VALUE '0000'.	not  empty  and  number between 1880 and today
+
+ SUPPLIER-CODE     PIC X(10) VALUE SPACES.     not  empty
+ SUPPLIER-TYPE     PIC X(01) VALUE SPACES.      is in (S,D,M,I) and not  empty
+ SUPPLIER-NAME     PIC X(15) VALUE SPACES.	not  empty
+ SUPPLIER-PERF     PIC 9(03) VALUE ZERO.	is number and not  empty
+ SUPPLIER-RATING   PIC X(01) VALUE SPACES.	is in (1,2,3)  numeric an not  empty
+ SUPPLIER-STATUS   PIC X(01) VALUE SPACES.	is in (1,2,3)  numeric an not  empty
+ SUPPLIER-ACT-DATE PIC 9(08) VALUE ZERO.	is datum and not  empty
+
+For supplier address  
+we need to  have 1  address  of the  3  ppossible  ones   ( otherwise it does not make sense the part is in the list at all)  
+ADDRESS-TYPE      PIC X(01) VALUE SPACES.	is in (1,2,3) 
+ADDRESS-1         PIC X(15) VALUE SPACES.    if this record has any data  than address 1-3 need to have data 
+ADDRESS-2          PIC X(15) VALUE SPACES.   do we need to check if not only ATTN: is  in there ? 
+ADDRESS-3         PIC X(15) VALUE SPACES.
+CITY              PIC X(15) VALUE SPACES.     if this record has any data than city can not  be  empty 
+ADDR-STATE        PIC X(02) VALUE SPACES.     valid state ?  find in state table  not empty 
+ZIP-CODE          PIC 9(10) VALUE ZERO.       valid  zip(first number ) for state ?  not empty  
+
+Purchase Orders : 
+could be  0    !!-     
+ Bnut if we have a value in PO-Number  than all other need to  be  filled in too  
+ PO-NUMBER         PIC X(06) VALUE SPACES.
+ BUYER-CODE        PIC X(03) VALUE SPACES.
+ QUANTITY          PIC S9(7) VALUE ZERO.    should be  >= 1 
+ UNIT-PRICE        PIC S9(7)V99 VALUE ZERO. >= 0.01 
+ ORDER-DATE        PIC 9(10) VALUE ZERO.     Order  date needs to  be  before deliver date 
+ DELIVERY-DATE     PIC 9(10) VALUE ZERO.
+ 
+********************
+Datum  input 20200101,  2020/01/01
+if record is good - we populate part / supplier / PO output ....   test of correctness and correct arythmetic 
+
+if record has errors - print record in ERROR File with number of errors	 and what the  errors are    test of correctness 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+               
