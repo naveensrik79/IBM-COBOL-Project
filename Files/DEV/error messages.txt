@@ -1,0 +1,52 @@
+P001E Incompl01 Field PART-NUMBER can not be empty. 	    
+P002E Field PART-NAME can not be empty.       
+P003E Field SPEC-NUMBER can not  be  empt.   
+P004E Field GOVT-COMML-CODE can not be empty.
+P005E Field BLUEPRINT-NUMBER can not be empty.
+ UNIT-OF-MEASURE  
+P006E Field WEEKS-LEAD-TIME can only contain numbers.
+P007E Field WEEKS-LEAD-TIME can not be empty.
+P008E Field VEHICLE-MAKE can not be empty.  
+P009E Field VEHICLE-MAKE can only contain values: CHR, FOR, GM,VW,TOY,JAG, PEU or BMW.
+P010E Field VEHICLE-MODEL can not be empty.    	
+P011E Field VEHICLE-YEAR can not be empty.   
+P099E Incomplete parts information . More than 3 fields have errors.
+
+S001E Field SUPPLIER-CODE can not be empty.  
+S002E Field SUPPLIER-TYPE can not be empty.
+S003E Field SUPPLIER-TYPE can only contain values: S,D,M or I.
+S004E Field SUPPLIER-NAME can not be empty.   
+S005E Field SUPPLIER-PERF can not be empty.
+S006E Field SUPPLIER-PERF can only contain numbers.
+S007E Field SUPPLIER-RATING can not be empty.
+S008E Field SUPPLIER-RATING can only contain 1,2 or 3.
+S009E Field SUPPLIER-STATUS can not be empty.
+S010E Field SUPPLIER-STATUS can only contain numbers 1,2 or 3.
+S011E Field SUPPLIER-ACT-DATE contains an invalid date.
+S012E Field SUPPLIER-ACT-DATE can not be empty.
+S099E Incomplete supplier information. More than 3 fields have errors.
+
+SA01E missing Supplier address .
+SA02E Field ADDRESS-TYPE   can only contain numbers 1,2 or 3.
+SA03E Field ADDRESS-TYPE can not be empty.
+SA04E Address does not contain a street or PO box         
+SA05E Field CITY can not be empty.             
+SA06E Value %ADDR-STATE is an invalid state acronym.
+SA07E Field ADDR-STATE can not be empty.
+SA08E Field ZIP-CODE can not be  empty.      
+SA09E Value  %ZIP-CODE is an  invalid  ZIP CODE for  %ADDR-STATE. 
+SA99E Incomplete Supplier Address . More than 3 fields have errors.
+
+PO01E Field PO-NUMBER can not be empty .     
+PO02E Field BUYER-CODE can not be empty.     
+PO03E Field QUANTITY is less than 1.
+PO04E Field QUANTITY can not be empty.
+PO05E Field UNIT-PRICE can no be less than 0.01.
+PO06E Field UNIT-PRICE can not be empty.
+PO07E Field ORDER-DATE can not be empty.
+PO08E Field ORDER-DATE contains an invalid date.
+PO09E Filed DELIVERY-DATE can not be  empty.
+PO10E Field DELIVERY-DATE contains an invalid Date.
+PO11E Field DELIVERY-DATE can not be set before the  Order date.
+PO99E Incomplete Purchase Order  . More than 3 fields have errors.
+ 
