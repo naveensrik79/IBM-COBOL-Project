@@ -1,0 +1,192 @@
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+Battery                          3                TOYOTA                   SubContractor            HIGHEST-QUALITY
+ 
+Order Address:  1234 West Main Any Town        AL 3599499999
+Sched Address:  1234 West Main Any Town        AL 3599499999
+Remit Address:  3333 West Main Any Town        AL 3599499999
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:     104,6.96
+Total Quantity in Purchase Orders:       $153.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+Muffler                          3                CHRYSLER                 Manufacturer             HIGHEST-QUALITY
+ 
+Order Address:  1234 West Main Any Town        IA 5123499999
+Sched Address:  1234 West Main Any Town        IA 5123499999
+Remit Address:  3333 West Main My City         AK 9950899999
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:     103,6.95
+Total Quantity in Purchase Orders:         $4.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+Brake Pads                       1                GM                       Distributor              AVERAGE-QUALITY
+ 
+Order Address:  1194 Grove Ave.My  Town        MA 2267899999
+Sched Address:  294  Grove Ave.My  Town        MA 2267899999
+Remit Address:  3333 Grove Ave.My  Town        AR 7222299999
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:       1,6.08
+Total Quantity in Purchase Orders: $5,000,425.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+Oil Filter                       2                VOLKSWAGON               Importer                 LOWEST-QUALITY
+ 
+Order Address:  1194 Grove Ave.My  Town        MA 2267899999
+Sched Address:  7986 Maple ST. My  City        MO 6333299999
+Remit Address:  3333 Maple ST. My  City        CO 8000799999
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:       1,7.19
+Total Quantity in Purchase Orders: $1,000,510.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+Brake Disc                       2                VOLKSWAGON               Manufacturer             HIGHEST-QUALITY
+ 
+Order Address:  1194 Grove Ave.My  Town        MA 2267899999
+Sched Address:  7986 Maple ST. My  City        AL 3599499999
+Remit Address:  3333 Maple STREBerlin          AL 3599499999
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:       3,0.04
+Total Quantity in Purchase Orders:     $1,020.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+Air Filter                       2                VOLKSWAGON               Manufacturer             LOWEST-QUALITY
+ 
+Order Address:  1194 Grove Ave.My  Town        MA 2267899999
+Sched Address:  7986 Maple ST. My  City        AL 3599499999
+Remit Address:  3333 Maple ST..Berlin          CA 3599499999
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:      50,6.10
+Total Quantity in Purchase Orders:     $1,027.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+Windscreen                       4                FORD                     Importer1                AVERAGE-QUALITY
+ 
+Order Address:  1194 Grove Ave.My  Town        MA 2267899999
+Sched Address:  69   St Robert Wenzville       MO 6558499999
+Remit Address:  10 Hundorfer StNew Haven       DE 1977799999
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:      14,9.00
+Total Quantity in Purchase Orders:     $1,068.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+Wiper blade                      4                FORD                     Importer1                LOWEST-QUALITY
+ 
+Order Address:  1194 Grove Ave.My  Town        MA 2267899999
+Sched Address:  69   St Robert Owneswill       CT 0600399999
+Remit Address:  2 Over str.    Hermann         al 3599499999
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:       1,5.23
+Total Quantity in Purchase Orders:     $1,075.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+Stiring wheel                   10                TOYOTA                   SubContractor            HIGHEST-QUALITY
+ 
+Order Address:  1194 Grove Ave.My  Town        MA 2267899999
+Sched Address:  690  Hundorfer Luebtorf        DC 2004299999
+Remit Address:  10 Next Str.   Washington      MT 5993399999
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:      15,0.19
+Total Quantity in Purchase Orders:     $1,059.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+Car seat                         5                CHRYSLER                 Importer1                LOWEST-QUALITY
+ 
+Order Address:  1194 Grove Ave.My  Town        MA 2267899999
+Sched Address:  10   Augusta StAugusta         ND 5800999999
+Remit Address:  3332           Moskow          CT 7777777770
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:      35,8.61
+Total Quantity in Purchase Orders:    $59,960.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+Break Light                      1                BMW                      SubContractor            AVERAGE-QUALITY
+ 
+Order Address:  1194 Grove Ave.My  Town        MA 2267899999
+Sched Address:  20   Berlin ST Berlin          TX 3300999999
+Remit Address:  1 Alexander    Berlin          MO 6558499999
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:         2.35
+Total Quantity in Purchase Orders:     $1,347.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+Bumper                          11                BMW                      Manufacturer             LOWEST-QUALITY
+ 
+Order Address:  1194 Grove Ave.My  Town        MA 2267899999
+Sched Address:  30   MagdeburgeMagdeburg       UT 8400299999
+Remit Address:  2410           Leipzig         NC 2777799999
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:       2,8.60
+Total Quantity in Purchase Orders:     $1,272.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+O2 sensor                        4                PEUGEOT                  Importer1                LOWEST-QUALITY
+ 
+Order Address:  1194 Grove Ave.My  Town        MA 2267899999
+Sched Address:  410  Leipziger Leipzig         VA 2004099999
+Remit Address:  9 Backer Str.  Dresden         AL 3599499999
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:       1,7.15
+Total Quantity in Purchase Orders:     $1,394.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+Suspension                       2                PEUGEOT                  Manufacturer             HIGHEST-QUALITY
+ 
+Order Address:  1194 Grove Ave.My  Town        MA 2267899999
+Sched Address:  9    Dresdner SDresden         NV 8890299999
+Remit Address:  1 Berlin Str.  Muenchen        AL 3599499999
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:       8,0.02
+Total Quantity in Purchase Orders:     $1,048.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+carburetor                      12                JAGUAR                   Importer1                HIGHEST-QUALITY
+ 
+Order Address:  1194 Grove Ave.My  Town        MA 2267899999
+Sched Address:  69   Freiburg SFreibug         MO 6558499999
+Remit Address:  6789 Next Str. Moskow          AL 3599499999
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:      49,1.57
+Total Quantity in Purchase Orders:     $1,002.00
+ 
+   Part Name             Weeks Lead Time          Vechile Make             Supplier Name            Supplier Rating
+===============          ===============          ===============          ===============          ===============
+Exhaust pipe                    15                JAGUAR                   Importer1                HIGHEST-QUALITY
+ 
+Order Address:  1194 Grove Ave.My  Town        MA 2267899999
+Sched Address:  69   Hermann BlHermann         MO 6558499999
+Remit Address:  3333 FOWLER DR.Dresden         DE 100000J880
+ 
+Total # Purchase Orders:   3
+Total Price Purchase Orders:      20,4.08
+Total Quantity in Purchase Orders:     $1,063.00
