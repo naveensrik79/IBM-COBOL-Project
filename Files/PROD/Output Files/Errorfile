@@ -1,0 +1,68 @@
+**********************************************
+ LIST OF ERROR  RECORDS.`
+**********************************************
+Error in record : 00000002
+Number of Errors  : 01
+PO01E 1 Purchase Order contains error(s)
+ DETAILS of errors in  Purchase Orders:
+ Purchase Order 1
+PO11E Invalid Delivery Date.
+ 
+Error in record : 00000003
+Number of Errors  : 03
+SA01E 2 Supplier addresses contain errors
+ 
+PO01E 1 Purchase Order contains error(s)
+ DETAILS of errors in  Purchase Orders:
+ 
+Error in record : 00000004
+Number of Errors  : 01
+PO01E 1 Purchase Order contains error(s)
+ DETAILS of errors in  Purchase Orders:
+ 
+Error in record : 00000005
+Number of Errors  : 01
+PO01E 1 Purchase Order contains error(s)
+ DETAILS of errors in  Purchase Orders:
+ Purchase Order 2
+PO03E QUANTITY needs to be betweenn1 and 999999.
+PO05E UNIT-PRICE has to be between $1 and $1000000.
+ 
+Error in record : 00000008
+Number of Errors  : 01
+SA01E 1 Supplier addresses contain errors
+ 
+Error in record : 00000009
+Number of Errors  : 01
+P003E WEEKS-LEAD-TIME can only contain 1,2,3 or 4.
+ 
+Error in record : 00000010
+Number of Errors  : 01
+PO01E 1 Purchase Order contains error(s)
+ DETAILS of errors in  Purchase Orders:
+ Purchase Order 2
+PO03E QUANTITY needs to be betweenn1 and 999999.
+PO05E UNIT-PRICE has to be between $1 and $1000000.
+ 
+Error in record : 00000011
+Number of Errors  : 04
+Bad record  - more than 3 errors detected : 04
+ 
+Error in record : 00000013
+Number of Errors  : 01
+PO01E 1 Purchase Order contains error(s)
+ DETAILS of errors in  Purchase Orders:
+ Purchase Order 1
+PO05E UNIT-PRICE has to be between $1 and $1000000.
+ 
+Error in record : 00000015
+Number of Errors  : 01
+PO01E 1 Purchase Order contains error(s)
+ DETAILS of errors in  Purchase Orders:
+ Purchase Order 2
+PO05E UNIT-PRICE has to be between $1 and $1000000.
+ 
+Error in record : 00000016
+Number of Errors  : 01
+P003E WEEKS-LEAD-TIME can only contain 1,2,3 or 4.
+ 
